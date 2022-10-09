@@ -1,0 +1,5 @@
+example/
+.vscode/
+.dart_tool/
+misc/
+test/
