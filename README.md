@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anyone-developer/anyone-dart-mitt/main/misc/logo.png" width="300" height="300" alt="mitt">
+  <br>
+  <img src="https://badgen.net/pub/v/mitt" alt="pub version">
+  <img src="https://badgen.net/pub/points/mitt" alt="points">
+  <img src="https://badgen.net/pub/likes/mitt" alt="likes">
+  <img src="https://badgen.net/pub/popularity/mobx" alt="popularity">
+  <br>
+  <img src="https://badgen.net/pub/sdk-version/mitt" alt="sdk">
+  <img src="https://badgen.net/pub/flutter-platform/mitt" alt="platform">
+</p>
+
 # Mitt (anyone-dart-mitt)
 
 This package help you to use event emitter/pubsub with dart. The package is inspired by npm [mitt](https://www.npmjs.com/package/mitt#all). I just take same name because user would easily to use it with same way without any hesitate.
