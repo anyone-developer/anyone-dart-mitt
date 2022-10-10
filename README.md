@@ -4,7 +4,7 @@
   <img src="https://badgen.net/pub/v/mitt" alt="pub version">
   <img src="https://badgen.net/pub/points/mitt" alt="points">
   <img src="https://badgen.net/pub/likes/mitt" alt="likes">
-  <img src="https://badgen.net/pub/popularity/mobx" alt="popularity">
+  <img src="https://badgen.net/pub/popularity/mitt" alt="popularity">
   <br>
   <img src="https://badgen.net/pub/sdk-version/mitt" alt="sdk">
   <img src="https://badgen.net/pub/flutter-platform/mitt" alt="platform">

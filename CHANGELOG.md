@@ -13,3 +13,7 @@
 ## 1.0.3
 
 - modify README.md
+
+## 1.0.4
+
+- fix popularity in README.md
