@@ -17,3 +17,7 @@
 ## 1.0.4
 
 - fix popularity in README.md
+
+## 1.0.5
+
+- add awesome-flutter badge.
